@@ -1,0 +1,59 @@
+commit 661d22e2b9a48ba29ddeaf83517ab4cbb2fdac07 (HEAD -> master, origin/master, origin/bug2, bug2)
+Author: Daniel Spaseski <spaseskidaniel51@gmail.com>
+Date:   Sun Mar 24 20:07:08 2024 +0100
+
+    call method makeBigStringFrom in main class
+
+commit da29813463f7a4b3361d527c2c10f19b143a118a
+Author: Daniel Spaseski <spaseskidaniel51@gmail.com>
+Date:   Sun Mar 24 20:02:26 2024 +0100
+
+    Fix wrong condition in makeBigStringFrom
+
+commit a420573f687ed0615d435b69632f5ecf83ca0675 (origin/bug1, bug1)
+Author: Daniel Spaseski <spaseskidaniel51@gmail.com>
+Date:   Sun Mar 24 20:05:21 2024 +0100
+
+    Call method filterOddLengthStrings in main class
+
+commit 3fd2e44d7883b6843b941419b5ce3271b97214f5
+Author: Daniel Spaseski <spaseskidaniel51@gmail.com>
+Date:   Sun Mar 24 20:00:17 2024 +0100
+
+    Fix wrong condition in filterOddLengthStrings
+
+commit 2f39478384ae2e2966d14be9123297e18322f8dc
+Author: Daniel Spaseski <spaseskidaniel51@gmail.com>
+Date:   Sun Mar 24 19:56:31 2024 +0100
+
+    Add starter code
+
+commit c84badec47f3066b8fd19ef7613b491ae39d1c53
+Author: Daniel Spaseski <spaseskidaniel51@gmail.com>
+Date:   Sun Mar 24 19:51:21 2024 +0100
+
+    Initial commit
+(END)
+commit a420573f687ed0615d435b69632f5ecf83ca0675 (origin/bug1, bug1)
+Author: Daniel Spaseski <spaseskidaniel51@gmail.com>
+Date:   Sun Mar 24 20:05:21 2024 +0100
+
+    Call method filterOddLengthStrings in main class
+
+commit 3fd2e44d7883b6843b941419b5ce3271b97214f5
+Author: Daniel Spaseski <spaseskidaniel51@gmail.com>
+Date:   Sun Mar 24 20:00:17 2024 +0100
+
+    Fix wrong condition in filterOddLengthStrings
+
+commit 2f39478384ae2e2966d14be9123297e18322f8dc
+Author: Daniel Spaseski <spaseskidaniel51@gmail.com>
+Date:   Sun Mar 24 19:56:31 2024 +0100
+
+    Add starter code
+
+commit c84badec47f3066b8fd19ef7613b491ae39d1c53
+Author: Daniel Spaseski <spaseskidaniel51@gmail.com>
+Date:   Sun Mar 24 19:51:21 2024 +0100
+
+    Initial commit
